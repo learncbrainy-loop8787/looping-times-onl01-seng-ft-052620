@@ -1,5 +1,5 @@
 
-dusing_times(Wingardium Leviosa)
+def dusing_times
 7.times do 
    puts using_times
  end
